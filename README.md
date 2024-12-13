@@ -19,12 +19,14 @@ I performed the following steps:
 6. Data preprocessing
 7. Vector transformation
 8. Model building and evaluation
-  1. Bernoulli Naive Bayes Classifier
-  2. SVM (Support vector machine)
-  3. Logistic regression   
 9. Hyperparameter tuning
 10. Saving model
 11. Loading model
+
+### Model Used
+1. Bernoulli Naive Bayes Classifier
+2. SVM (Support vector machine)
+3. Logistic regression   
 
 
 ### STEP 2
